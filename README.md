@@ -2,9 +2,13 @@
 
 <div align="center">
 
+<br></br>
+
 ![Honeywell](images/Honeywell.png)
 
 *Industry Partner - Honeywell*
+
+<br></br>
 
 </div>
 
