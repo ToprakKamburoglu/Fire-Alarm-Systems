@@ -231,9 +231,11 @@ Special thanks to:
 ---
 
 **Course**: Computer Architecture  
+
 **Institution**: Kadir Has University 
+
 **Industry Partner**: Honeywell
 
-**Project Focus**: Fire alarm system design with room-to-room propagation simulation for enhanced building safety and emergency response coordination.
+**Project Focus**: Fire alarm system design with room-to-room propagation simulation
 
 For technical support or collaboration opportunities, please contact toprakkamburoglu@gmail.com
