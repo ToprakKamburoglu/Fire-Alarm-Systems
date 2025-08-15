@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<br></br>
-
 ![Honeywell](images/Honeywell.png)
 
 *Industry Partner - Honeywell*
@@ -171,12 +169,12 @@ The system simulates fire spread through:
 ## 🧪 Testing & Validation
 
 The system includes comprehensive testing for:
-- ✅ **Sensor Functionality**: Individual device operation
-- ✅ **Zone Communication**: Inter-zone data exchange
-- ✅ **Alarm Coordination**: System-wide response testing
-- ✅ **Propagation Accuracy**: Simulation model validation
-- ✅ **Emergency Procedures**: Complete system response
-- ✅ **False Alarm Prevention**: Intelligent detection algorithms
+- **Sensor Functionality**: Individual device operation
+- **Zone Communication**: Inter-zone data exchange
+- **Alarm Coordination**: System-wide response testing
+- **Propagation Accuracy**: Simulation model validation
+- **Emergency Procedures**: Complete system response
+- **False Alarm Prevention**: Intelligent detection algorithms
 
 ## 🤝 Industry Partnership
 
