@@ -234,6 +234,8 @@ Special thanks to:
 
 **Industry Partner**: Honeywell
 
+**License**: [MIT License](LICENSE).
+
 **Project Focus**: Fire alarm system design with room-to-room propagation simulation
 
 For technical support or collaboration opportunities, please contact toprakkamburoglu@gmail.com
